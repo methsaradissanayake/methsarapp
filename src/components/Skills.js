@@ -19,12 +19,12 @@ const Skills = () => {
     },
     {
       logo: <FaNode />,
-      level: "Beginner",
+      level: "Intermediate",
       count: 40,
     },
     {
       logo: <FaReact />,
-      level: "Intermediate",
+      level: "Expert",
       count: 80,
     },
     {
