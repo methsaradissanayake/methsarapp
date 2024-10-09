@@ -25,7 +25,7 @@ I thrive on solving complex challenges and am dedicated to contributing to impac
               </a>
             </div>
           </div>
-          <div className="md:mt-[-60px] flex justify-center items-center">
+          <div className="md:mt-[-60px]  flex justify-center items-center">
             <div className="lg:w-[500px] h-[500px] relative sm:w-10/12 w-11/12 max-w-sm aboutImg"> {/* Increased width and height */}
               <img src={aboutImg} alt="About" className="w-full h-full object-cover" /> {/* Use object-cover to maintain aspect ratio */}
             </div>

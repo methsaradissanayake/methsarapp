@@ -13,7 +13,7 @@ export default function Bot() {
     <div>
       <div className=''>
         <IoChatbubbleEllipsesSharp
-          className='text-4xl cursor-pointer'
+          className='text-4xl cursor-pointer '
           onClick={handleContact}
         />
       </div>

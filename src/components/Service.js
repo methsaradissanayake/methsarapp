@@ -21,7 +21,7 @@ const projects = [
   {
     img: project2,
     name: "Web Developer",
-    description: "Crafting scalable, responsive web applications with clean code and optimal performance, tailored to enhance your business's online presence.",
+    description: "Crafting scalable, responsive, and dynamic web applications with clean code and optimal performance, tailored to enhance your business's online presence and user engagement.",
   },
   {
     img: project3,
@@ -31,7 +31,7 @@ const projects = [
   {
     img: project4,
     name: "Desktop App Developer",
-    description: "Developing powerful, user-friendly desktop applications tailored for optimal performance, providing robust functionality and a seamless user experience.",
+    description: "Developing powerful, user-friendly desktop applications tailored for optimal performance, providing robust functionality, seamless user experience, and innovative features. ",
   },
 ];
 

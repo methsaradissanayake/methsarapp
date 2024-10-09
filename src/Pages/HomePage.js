@@ -12,7 +12,7 @@ import Footer from '../components/Footer';
 export default function HomePage() {
   return (
     <div className="text-4xl">
-      <div className='fixed bottom-4 right-7 w-16 h-16 bg-cyan-600 flex items-center justify-center rounded-full sm:right-8 animate-bounce'>
+      <div className='z-10 fixed bottom-4 right-7 w-16 h-16 bg-cyan-600 flex items-center justify-center rounded-full sm:right-8 animate-bounce '>
         <Bot />
       </div>
       <div>
